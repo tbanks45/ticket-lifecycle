@@ -18,14 +18,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
+- Opening ticket as an end user
 - Assignment and Communication
 - Resolution
 
 <h2>Lifecycle Stages</h2>
 
 <p>
-
+![image](https://github.com/tbanks45/ticket-lifecycle/assets/142834800/b26e2787-37f6-4be8-ac3e-5af190c50958)
 
 </p>
 <p>
