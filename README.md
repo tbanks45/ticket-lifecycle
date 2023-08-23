@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I opened a ticket as end user for a problem. The help topic for the issue is business critical outage. The end user includes their email address, first and last name, and a short summary of the issue.
 </p>
 <br />
 
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/tbanks45/ticket-lifecycle/assets/142834800/e97fbd88-2808-4227-bfef-107111240feb)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I have assigned Jane Doe (agent/worker) to a team to work on the mobile banking ticket from the previous example.
 </p>
 <br />
 
@@ -46,6 +46,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  This is the same ticket from the previous two examples. Here I am explaining, Jane Doe, that a systems engineer corrected the issue causing the online mobile banking issue. I closed the ticket by changing the ticket status to "Resolved".
 </p>
 <br />
