@@ -46,6 +46,6 @@ Here I have assigned Jane Doe (agent/worker) to a team to work on the mobile ban
 
 </p>
 <p>
-  This is the same ticket from the previous two examples. Here I am explaining, Jane Doe, that a systems engineer corrected the issue causing the online mobile banking issue. I closed the ticket by changing the ticket status to "Resolved".
+  This is the same ticket from the previous two examples. Here I am explaining, as Jane Doe, that a systems engineer corrected the issue causing the online mobile banking issue. I closed the ticket by changing the ticket status to "Resolved".
 </p>
 <br />
