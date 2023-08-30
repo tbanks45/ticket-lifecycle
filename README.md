@@ -25,6 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+  
 ![image](https://github.com/tbanks45/ticket-lifecycle/assets/142834800/b26e2787-37f6-4be8-ac3e-5af190c50958)
 
 </p>
@@ -34,6 +35,7 @@ Here I opened a ticket as end user for a problem. The help topic for the issue i
 <br />
 
 <p>
+  
 ![image](https://github.com/tbanks45/ticket-lifecycle/assets/142834800/e97fbd88-2808-4227-bfef-107111240feb)
 </p>
 <p>
@@ -42,6 +44,7 @@ Here I have assigned Jane Doe (agent/worker) to a team to work on the mobile ban
 <br />
 
 <p>
+  
 ![image](https://github.com/tbanks45/ticket-lifecycle/assets/142834800/d9c60d96-ec29-4d12-a8a0-eb0e5400d99a)
 
 </p>
